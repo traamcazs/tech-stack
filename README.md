@@ -3,6 +3,7 @@ Technologies I use and their docs
 
 ## [Django](https://www.djangoproject.com/)
 * [Docs](https://docs.djangoproject.com/en/4.2/ref/)
+* [REST](https://www.django-rest-framework.org/)
 
 ## [TailwindCSS](https://tailwindcss.com)
 
