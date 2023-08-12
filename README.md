@@ -6,6 +6,7 @@ Technologies I use and their docs
 * [REST](https://www.django-rest-framework.org/)
 * [Neon](https://console.neon.tech)
   * [psycopg](https://www.psycopg.org/install/)
+* [Cors headers](https://github.com/adamchainz/django-cors-headers)
 
 ## [TailwindCSS](https://tailwindcss.com)
 
@@ -24,7 +25,11 @@ Technologies I use and their docs
 ## [React](https://react.dev/)
 
 * [Reference](https://react.dev/reference/react)
-
+* [ReactRouter](https://reactrouter.com/en/main)
+   * [Examples](https://github.com/remix-run/react-router/tree/dev/examples)
+* [Moment](https://momentjs.com/docs/)
+   * [Examples](https://momentjs.com/docs/#/parsing/string-formats/)
+  
 ## [Recharts](https://recharts.org/)
 
 * [GitHub](https://github.com/recharts/recharts)
